@@ -12,6 +12,8 @@ The purpose of this project was to take a database for budget tracking and conve
 
 Alternatively, you can visit the app on heroku [here](https://maria-lara-budget-tracker.herokuapp.com/)
 
+[screenshot](https://github.com/maria-lara/progressive-budget/blob/main/public/screenshot.png)
+
 ## Contributors
 [Maria Lara](https://github/com/Maria-lara/)
 
