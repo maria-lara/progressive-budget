@@ -4,8 +4,7 @@ const FILES_TO_CACHE = [
     "/css/styles.css",
     "/js/index.js",
     "/js/idb.js",
-    "/icons/icon-192x192.png", "/icons/icon-192x192.png",
-    "/icons/icon-512x512.png", "/icons/icon-512x512.png",
+    "/icons/icon-192x192.png", "/icons/icon-512x512.png",
     "/manifest.json",
     "/service-worker.js"
   ];
